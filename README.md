@@ -31,7 +31,6 @@ Full API documentation generated via Postman:
 📁 Dmoney-Api-Testing/
   ├── 📄 README.md
   ├── 📄 Dmoney_Api_Assignment.postman_collection.json
-  ├── 📄 Dmoney_Environment.postman_environment.json
   ├── 📄 .gitignore
   ├── 📄 package.json
   └── 📁 Reports/
@@ -58,7 +57,7 @@ npm install -g newman-reporter-htmlextra
 ### Step 2 — Clone the Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/masum-abrar/Api-Project
 cd Dmoney-Api-Testing
 ```
 
